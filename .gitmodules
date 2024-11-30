@@ -1,0 +1,6 @@
+[submodule "vuepress-starter/docs/a"]
+	path = vuepress-starter/docs/a
+	url = https://github.com/testusermx/A_test.git
+[submodule "vuepress-starter/docs/b"]
+	path = vuepress-starter/docs/b
+	url = https://github.com/testusermx/DL_test.git
